@@ -1,0 +1,31 @@
+{
+  "name": "genfontgl",
+  "version": "0.3.1",
+  "description": "Create a fontstack folder from a TTF font for Mapbox GL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "genfontgl": "node index.js"
+  },
+  "dependencies": {
+    "d3-queue": "^2.0.2",
+    "fontnik": "^0.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sabas/genfontgl.git"
+  },
+  "bin": {
+    "genfontgl": "index.js"
+  },
+  "keywords": [
+    "mapbox gl",
+    "fontstack"
+  ],
+  "author": "Stefano Sabatini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabas/genfontgl/issues"
+  },
+  "homepage": "https://github.com/sabas/genfontgl"
+}
