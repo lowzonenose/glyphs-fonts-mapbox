@@ -8,7 +8,8 @@ import {
 
 const map = new Map({
   container: "map",
-  style: "plan-ign-akaya.json",
+  style: "styles/plan-ign-source.json",
+  // style: "styles/plan-ign-akaya.json",
   center: [2, 48],
   zoom: 3
 });

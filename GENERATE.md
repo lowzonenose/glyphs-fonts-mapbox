@@ -33,15 +33,15 @@ $> sudo n v6.10.0
 * compilation
 
 ```sh
-$genfontgl> npm install
+$bin/genfontgl> npm install
 ```
 
 * generer les glyphs
 
 ```sh
-$genfontgl> node index.js ./../../data/fonts/OpenSans-Light.ttf ../../test/fonts.pbf/genfontgl/
+$bin/genfontgl> node index.js ./../../data/fonts/OpenSans-Light.ttf ../../test/fonts.pbf/genfontgl/
 
-$genfontgl> node index.js ./../../data/fonts/AkayaTelivigala-Regular.ttf ../../test/fonts.pbf/genfontgl/
+$bin/genfontgl> node index.js ./../../data/fonts/AkayaTelivigala-Regular.ttf ../../test/fonts.pbf/genfontgl/
 ```
 
 > cf. **TEST.md** pour tester le resultat des glyphs sur une carte

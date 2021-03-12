@@ -31,8 +31,8 @@ https://github.com/bravecow/fonts.pbf
 
 ### liste de fonts
 
-Pour la couche PLAN.IGN :
-`[Source Sans Pro Italic]`
+Pour la couche **PLAN.IGN**, on utilise la fonts :
+`[Source Sans Pro]`
 
 ### hebergement des fonts
 
