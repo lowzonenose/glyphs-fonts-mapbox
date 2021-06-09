@@ -8,8 +8,10 @@ import {
 
 const map = new Map({
   container: "map",
-  style: "styles/plan-ign-source.json",
-  // style: "styles/plan-ign-akaya.json",
+  style: "styles/plan-ign-source.json", // font Source
+  // style: "styles/plan-ign-akaya.json", // font Akaya
+  // style : "styles/plan-ign-pp.json", // Test avec glyphs en pre-prod IGN !
+  // style : "styles/plan-ign-osm.json", // Test avec glyphs OSM !
   center: [2, 48],
   zoom: 3
 });

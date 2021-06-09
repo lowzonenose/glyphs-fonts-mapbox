@@ -6689,7 +6689,7 @@
                 "text-allow-overlap": false,
                 "text-padding": 2,
                 "text-anchor": "center",
-                "text-font": ["Source Sans Pro Semibold"],
+                "text-font": ["Source Sans Pro Semi Bold"],
                 "text-rotation-alignment": "viewport"
             },
             "paint": {

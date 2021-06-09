@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "maplibre-gl": "^1.13.0-rc.5"
   },
   "directories": {
     "test": "test"
